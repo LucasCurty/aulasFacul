@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+h1{
+  color: green;
+  font-size: 32px;
+  position: sticky;
+  top: 0;
+}
+body{
+  height: 1200px;
+  background-color: red;
+}
+
+p.lorem{
+  position: relative;
+  left: 0;
+  bottom: 0;
+  font-size: 32px;
+  outline: 12px blue;
+}
+p.position{
+  color: white;
+  bottom:0;
+}

@@ -1,4 +1,4 @@
-// condiçoe
+// condiçoe com IF and ELSE
 
 let exe1 = true
 let exe2 = true

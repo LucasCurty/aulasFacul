@@ -37,4 +37,3 @@ echo $_POST['var3'];
  
 //É considerada "coringa", uma vez que exerce múltiplos papéis. Com ela, é possível receber tanto variáveis provenientes de métodos GET quanto POST – e também do método cookies ($_COOKIE).
 echo $_REQUEST['var1']
-

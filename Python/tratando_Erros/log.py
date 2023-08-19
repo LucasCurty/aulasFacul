@@ -8,7 +8,7 @@ logging.basicConfig(filename="logs.log", level=logging.DEBUG, format=LOG_FORMAT)
 log = logging.getLogger()
 
 #Chamando o evento log passando seus tipos.
-log.info("Starting")
+log.info("Iniciando")
 log.critical("Erro critico")
 log.error("Holve um erro")
 log.debug("Erro Grave!")
